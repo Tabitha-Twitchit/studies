@@ -8,4 +8,4 @@
  * 
  * 3: Hoisting: (... describe hoisting in detail)
  */
-
+/** TAB: BELOW PUT CODE EXAMPLES OF EACH ITEM, ILLUSTRATING THE TEXT DESCRIPTIONS YOU WRITE ABOVE. */
